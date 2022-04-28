@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Beni Rose
-- 👀 I’m interested in employment opportunities in the Seattle area, web development, and game design.
-- 🌱 I’m currently learning SQL databases
-- I have experience with javascript, Python, Node.js, MongoDB, SQL, Express, Bootstrap, EJS, full-stack web development
+- 👀 I’m looking for work opportunities as a software developer or web designer. 
+- 🌱 I’m currently working on a web based multiplayer auction based game.
+- I have experience with javascript, React, Python, Node.js, MongoDB, SQL, Express, Bootstrap, EJS, full-stack web development (Mongo, Express, React, Node)
 - You can reach me at brosebusiness@gmail.com
 
 <!---
